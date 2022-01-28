@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large data set
+data/wikitalk/trials10train_r100test_r100.pk
