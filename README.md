@@ -1,5 +1,23 @@
 # DIGRAC
-DIGRAC: Directed Graph Clustering Based on Flow Imbalance
+DIGRAC: Directed Graph Clustering Based on Flow Imbalance (LoG 2022)
+
+For details, please read [our paper](https://arxiv.org/pdf/2106.05194.pdf).
+
+**Citing**
+
+
+If you find DIGRAC useful in your research, please consider adding the following citation:
+
+```bibtex
+@article{he2021digrac,
+  title={DIGRAC: Digraph Clustering Based on Flow Imbalance},
+  author={He, Yixuan and Reinert, Gesine and Cucuringu, Mihai},
+  journal={arXiv preprint arXiv:2106.05194},
+  year={2021}
+}
+```
+
+--------------------------------------------------------------------------------
 
 ## Environment Setup
 ### Overview

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite our paper if you find our work useful in your research."
+title: "DIGRAC: Digraph Clustering Based on Flow Imbalance"
+authors:
+- family-names: "He"
+  given-names: "Yixuan"
+- family-names: "Reinert"
+  given-names: "Gesine"
+- family-names: "Cucuringu"
+  given-names: "Mihai"
+license: MIT
+url: "https://github.com/SherylHYX/DIGRAC_Directed_Clustering"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "He"
+    given-names: "Yixuan"
+  - family-names: "Reinert"
+    given-names: "Gesine"
+  - family-names: "Cucuringu"
+    given-names: "Mihai"
+  journal: "arXiv preprint arXiv:2106.05194"
+  title: "DIGRAC: Digraph Clustering Based on Flow Imbalance"
+  year: 2021
