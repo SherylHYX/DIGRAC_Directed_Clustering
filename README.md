@@ -3,6 +3,8 @@ DIGRAC: Directed Graph Clustering Based on Flow Imbalance (LoG 2022)
 
 For details, please read [our paper](https://arxiv.org/pdf/2106.05194.pdf).
 
+DIGRAC is also implemented in the [PyTorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed) library.
+
 **Citing**
 
 
