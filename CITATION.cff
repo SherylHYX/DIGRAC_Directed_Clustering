@@ -22,5 +22,5 @@ preferred-citation:
   journal: "Proceedings of the First Learning on Graphs Conference, PMLR 198"
   title: "DIGRAC: Digraph Clustering Based on Flow Imbalance"
   year: 2022
-  start: 21:1
-  end: 21:43
+  start: 21
+  end: 1
