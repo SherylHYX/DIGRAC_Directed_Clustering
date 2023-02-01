@@ -11,11 +11,13 @@ DIGRAC is also implemented in the [PyTorch Geometric Signed Directed](https://gi
 If you find DIGRAC useful in your research, please consider adding the following citation:
 
 ```bibtex
-@article{he2021digrac,
+@inproceedings{he2022digrac,
   title={DIGRAC: Digraph Clustering Based on Flow Imbalance},
   author={He, Yixuan and Reinert, Gesine and Cucuringu, Mihai},
-  journal={arXiv preprint arXiv:2106.05194},
-  year={2021}
+  booktitle={Learning on Graphs Conference},
+  pages={21--1},
+  year={2022},
+  organization={PMLR}
 }
 ```
 

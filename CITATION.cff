@@ -19,6 +19,8 @@ preferred-citation:
     given-names: "Gesine"
   - family-names: "Cucuringu"
     given-names: "Mihai"
-  journal: "arXiv preprint arXiv:2106.05194"
+  journal: "Proceedings of the First Learning on Graphs Conference, PMLR 198"
   title: "DIGRAC: Digraph Clustering Based on Flow Imbalance"
-  year: 2021
+  year: 2022
+  start: 21:1
+  end: 21:43
